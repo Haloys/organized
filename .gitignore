@@ -1,0 +1,9 @@
+organized
+
+.gitignore~
+
+libmy.a
+*.o
+
+*.gcda
+*.gcno
